@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Motion Manager</string>
+    <string name="button_record_new_motion">Tap to record</string>
+</resources>
